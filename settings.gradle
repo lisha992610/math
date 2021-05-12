@@ -9,4 +9,4 @@ pluginManagement {
 
 rootProject.name = "math"
 
-includeBuild "build-logic"
+//includeBuild "build-logic"
